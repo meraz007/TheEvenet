@@ -1,0 +1,33 @@
+@media (min-width: 576px) and (max-width: 767px) {
+    .margin1{
+        margin-bottom: 25px;
+    }
+    .speaker .social{
+        margin-left: 80px;
+    }
+    .map{
+        width: 550px;
+        height: 350px;
+    }
+    
+}
+
+@media (min-width: 768px) and (max-width: 991px) { 
+    .margin{
+        margin-top: 25px;
+    }
+    .map{
+        width: 730px;
+        height: 350px;
+    }
+ }
+ @media (min-width: 992px) and (max-width: 1199px){
+     .map{
+        width: 600px;
+        height: 350px;
+     }
+ }
+ @media (min-width: 1200px){
+     width: 900px;
+     height: 500px;
+ }
